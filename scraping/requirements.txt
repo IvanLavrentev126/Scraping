@@ -3,3 +3,4 @@ undetected-chromedriver
 pandas
 matplotlib
 seaborn
+beautifulsoup4
