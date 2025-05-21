@@ -20,25 +20,25 @@
 
 ### 1. Количество публикаций по годам
 
-![Публикации по годам](result/publications_by_year.png)
+![Публикации по годам](scraping/result/publications_by_year.png)
 
 ---
 
 ### 2. Топ-20 журналов по числу публикаций
 
-![Публикации по журналам](result/publications_by_journal.png)
+![Публикации по журналам](scraping/result/publications_by_journal.png)
 
 ---
 
 ### 3. Топ-10 выпусков по публикациям
 
-![Публикации по выпускам](result/publications_by_issue.png)
+![Публикации по выпускам](scraping/result/publications_by_issue.png)
 
 ---
 
 ### 4. Топ-10 авторов по публикационной активности
 
-![Публикации по авторам](result/publications_by_author.png)
+![Публикации по авторам](scraping/result/publications_by_author.png)
 
 ---
 
